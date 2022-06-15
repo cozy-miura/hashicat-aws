@@ -129,6 +129,8 @@ resource "aws_instance" "hashicat" {
   tags = {
     Name = "${var.prefix}-hashicat-instance"
   }
+  tags = devops
+  tags = Department
 }
 
 # We're using a little trick here so we can run the provisioner without
