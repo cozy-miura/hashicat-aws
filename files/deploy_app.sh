@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Hoge Fuga CozyMiura.
+  Hoge Fuga CozyMiura 2022/6/15.
   <!-- END -->
 
   </div>
